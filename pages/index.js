@@ -1,5 +1,5 @@
 function Home() {
-    return <h2>Prazer, me chamo jao vituuu s2</h2>
+    return <h2>t amo biguuuucha s2</h2>
     
 }
 
