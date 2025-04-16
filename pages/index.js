@@ -1,5 +1,6 @@
 function Home() {
-    return <h1>Prazer, me chamo jao vitu</h1>
+    return <h2>Prazer, me chamo jao vituuu s2</h2>
+    
 }
 
 export default Home;
