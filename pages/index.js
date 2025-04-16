@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Compre bitcóio po..</h1>
+    return <h1>Prazer, me chamo jao vitu</h1>
 }
 
 export default Home;
