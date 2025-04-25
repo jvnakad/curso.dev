@@ -1,2 +1,3 @@
 # curso.dev
+
 Aplicando estudos
