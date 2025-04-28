@@ -1,6 +1,6 @@
 function Home() {
   function falar() {
-    alert("Você é bobucha e tem cheiro...");
+    alert("Você é bobucha e tem cheiro.");
   }
 
   return (
